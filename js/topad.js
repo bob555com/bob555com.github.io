@@ -1,4 +1,4 @@
-//é¡¶éƒ¨å¹¿å‘Š
+//¶¥²¿¹ã¸æ
 document.write("<a href='http://www.pj8280.com/?intr=pjcaiwang' target='_blank'><img src='ggtu1/pj5575-960.gif' border='0'/></a>");
 document.write("<a href='http://bet99999.com/?f=bet368' target='_blank'><img src='ggtu1/550277-960.gif' border='0'/></a>");
 document.write("<a href='http://www.pj8280.com/?intr=pjcaiwang' target='_blank'><img src='ggtu1/19333-960.gif' border='0'/></a>");
